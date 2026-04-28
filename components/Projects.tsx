@@ -16,7 +16,7 @@ const projectsData = [
     name: 'ALTAIF Currency Exchange',
     tagline:
       'Production fintech for a FINTRAC-registered MSB. Currency exchange, international transfers, remittance to 50+ countries with live FX rates.',
-    role: 'Founder & Developer — ALTAIF Inc.',
+    role: 'Full Stack Developer — ALTAIF Inc.',
     tech: ['Next.js', 'TypeScript', 'Tailwind', 'Supabase', 'Sanity CMS'],
     url: 'https://taifco.com',
   },
@@ -24,7 +24,7 @@ const projectsData = [
     name: 'Taifco AI Assistant',
     tagline:
       'AI-powered customer support on OpenAI GPT API with human live chat escalation. Compliance-aware prompt engineering for regulated financial services.',
-    role: 'Developer — ALTAIF Inc.',
+    role: 'Full Stack Developer — ALTAIF Inc.',
     tech: ['OpenAI GPT API', 'Next.js', 'TypeScript', 'Prompt Engineering'],
   },
   {
