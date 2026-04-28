@@ -28,13 +28,6 @@ const projectsData = [
     tech: ['OpenAI GPT API', 'Next.js', 'TypeScript', 'Prompt Engineering'],
   },
   {
-    name: 'Banking Contest Platforms',
-    tagline:
-      'Enterprise contest platforms for a major Canadian bank — Student, Insurance, and Music Award contests. Zero-downtime releases with full WCAG 2.1 AA / AODA compliance.',
-    role: 'Full Stack Developer — Therefore Interactive',
-    tech: ['React', 'Next.js', 'TypeScript', 'WCAG 2.1 AA'],
-  },
-  {
     name: 'Winsa Candles',
     tagline:
       'Full e-commerce platform for an artisan candle brand. Custom product catalog, cart, and checkout flow.',
