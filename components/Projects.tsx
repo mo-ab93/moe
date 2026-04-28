@@ -28,9 +28,9 @@ const projectsData = [
     tech: ['OpenAI GPT API', 'Next.js', 'TypeScript', 'Prompt Engineering'],
   },
   {
-    name: 'TD Bank Contest Platforms',
+    name: 'Banking Contest Platforms',
     tagline:
-      'Enterprise platforms for TD Student Contest, TD Insurance Contest, TD Junos Contest. Zero-downtime releases with full WCAG 2.1 AA / AODA compliance.',
+      'Enterprise contest platforms for a major Canadian bank — Student, Insurance, and Music Award contests. Zero-downtime releases with full WCAG 2.1 AA / AODA compliance.',
     role: 'Full Stack Developer — Therefore Interactive',
     tech: ['React', 'Next.js', 'TypeScript', 'WCAG 2.1 AA'],
   },

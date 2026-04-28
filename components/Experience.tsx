@@ -23,7 +23,7 @@ const experienceData = [
     period: 'Nov 2023 — Present',
     type: 'Permanent Full-time',
     bullets: [
-      'Building enterprise contest platforms for TD Bank — TD Student Contest, TD Insurance Contest, TD Junos Contest — with zero-downtime releases.',
+      'Building enterprise contest platforms for a major Canadian bank — Student Contest, Insurance Contest, and Music Award Contest — with zero-downtime releases.',
       'Ensuring WCAG 2.1 AA and AODA compliance across all deliverables, with comprehensive automated and manual testing.',
       'Contributing to projects across banking, insurance, entertainment, and public sector verticals at enterprise scale.',
     ],

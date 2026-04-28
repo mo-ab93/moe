@@ -77,7 +77,7 @@ export default function About() {
               I&apos;m Moe — a Senior Full Stack Developer with 5+ years shipping production
               software. I&apos;m currently at{' '}
               <strong style={{ color: 'var(--text-primary)' }}>Therefore Interactive</strong>,
-              building enterprise platforms for TD Bank, and running{' '}
+              building enterprise platforms for major Canadian banks, and running{' '}
               <strong style={{ color: 'var(--text-primary)' }}>ALTAIF Inc.</strong>, where I build
               fintech products that handle real money, real compliance, and real users.
             </p>
@@ -88,7 +88,7 @@ export default function About() {
             </p>
             <p style={{ fontSize: 16, lineHeight: 1.7, color: 'var(--text-secondary)', margin: 0 }}>
               I care about craft, accessibility, and building software that earns trust. Whether
-              it&apos;s a TD Bank contest platform serving millions or a currency exchange handling
+              it&apos;s a bank contest platform serving millions or a currency exchange handling
               FINTRAC compliance — I treat every project like it matters, because it does.
             </p>
           </div>
