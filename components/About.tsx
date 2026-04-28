@@ -78,8 +78,8 @@ export default function About() {
               software. I&apos;m currently at{' '}
               <strong style={{ color: 'var(--text-primary)' }}>Therefore Interactive</strong>,
               building enterprise platforms for many clients, and running{' '}
-              <strong style={{ color: 'var(--text-primary)' }}>ALTAIF Inc.</strong>, where I build
-              fintech products that handle real money, real compliance, and real users.
+              <strong style={{ color: 'var(--text-primary)' }}>ALTAIF Inc.</strong> as a freelancer,
+              building fintech products that handle real money, real compliance, and real users.
             </p>
             <p style={{ fontSize: 16, lineHeight: 1.7, color: 'var(--text-secondary)', margin: 0 }}>
               My engineering foundation comes from a Bachelor of Engineering degree and Full Stack
