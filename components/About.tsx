@@ -77,7 +77,7 @@ export default function About() {
               I&apos;m Moe — a Senior Full Stack Developer with 5+ years shipping production
               software. I&apos;m currently at{' '}
               <strong style={{ color: 'var(--text-primary)' }}>Therefore Interactive</strong>,
-              building enterprise platforms for major Canadian banks, and running{' '}
+              building enterprise platforms for many clients, and running{' '}
               <strong style={{ color: 'var(--text-primary)' }}>ALTAIF Inc.</strong>, where I build
               fintech products that handle real money, real compliance, and real users.
             </p>
